@@ -1,0 +1,267 @@
+.navbar{
+    /* border:solid black; */
+    height: auto; 
+    justify-content:flex-start;
+    margin:auto;
+    text-align:justify;
+}
+
+.imagecontainer{
+    /* border:solid gray; */
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content:space-between;
+    margin:auto;
+    color:black;
+    margin:auto;
+    align-items: center;
+    font-size: 100%;
+
+}
+.tab{
+    /* border:solid green; */
+    height: auto;
+    width: 100vw;
+    padding: 10px;
+    text-align: center;
+}
+.logo{
+    height: 100%;
+    width: 100px;
+}
+
+.searchbtn{
+    /* border: solid yellow; */
+    height:40%;
+    width: 40px;
+    align-content: center;
+}
+.sidebar{
+    /* border: solid red; */
+    height: 60%;
+    width: 60px;
+
+}
+.Showcontainer{
+    /* border:solid rgb(230, 17, 17); */
+    height:auto;
+    background-color: black;
+    
+}
+.heading{
+    /* border:solid green; */
+    color:white;
+    font-style: normal;
+    text-align: center;
+    
+}
+
+
+.subtitle{
+    /* border:solid black; */
+    height: 50px;
+    color:white;
+    justify-content: center;
+    text-align: center;
+    font-size: 110%;
+
+}
+.buttons{
+    /* border:solid rgb(238, 225, 225); */
+    height: 80px;
+    text-align: center;
+    flex-flow: wrap;
+    margin: auto;
+    background-color: black;
+
+}
+.collectioncontainer{
+    /* border:solid yellow; */
+    background-color: black;
+    display: flex;
+    height: auto;
+    width: auto;
+    align-items: center;
+    /* align-content: space-evenly; */
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content:space-evenly;
+    /* justify-content: space-around; */
+}
+.showcontentlist{
+    /* border: solid red; */
+    /* border-radius: 10%; */
+    width:5vw;
+    height: 50vh; 
+    display: flex;
+    /* gap: 20px 20px; */
+    background-color: black;
+    box-sizing: border-box;
+    margin: 3px;
+    
+    /* justify-content: center;
+    justify-content: space-around; */
+    /* grid-template-columns: repeat(5, 1fr); */
+    width: 20vw;
+    color:white;
+    flex-direction: column;
+    align-content: space-evenly;
+    text-align: center;   
+    padding: 3%; 
+    align-items: center;
+    justify-content: center;
+}
+.MountainMan{
+    /* border: solid green; */
+    width: auto;
+    height: 25vh;
+    border-radius: 10%;
+    
+   
+}
+.Theunbelievable{
+    /* border: solid green; */
+    width: auto;
+    height: 25vh;
+    border-radius: 10%;
+
+}
+.Thecurse{
+    /* border: solid green; */
+    width: auto;
+    height: 25vh;
+    border-radius: 10%;
+    
+}
+.TheUnXplained{
+    /* border: solid green; */
+    width: auto;
+    height: 30vh;
+    border-radius: 10%;
+    
+}
+.History{
+    /* border: solid green; */
+    width: auto;
+    height: 30vh;
+    border-radius: 10%;
+    
+}
+.TheProof{
+    /* border: solid green; */
+    width: auto;
+    height: 30vh;
+    border-radius: 10%;
+    
+}
+.Alone{
+    /* border: solid green; */
+    width: auto;
+    height: 30vh;
+    border-radius: 10%;
+    
+}
+.Forged{
+    /* border: solid green; */
+    width: auto;
+    height: 25vh;
+    border-radius: 10%;
+    
+}
+.Pickers{
+    /* border: solid green; */
+    width: auto;
+    height: 25vh;
+    border-radius: 10%;
+}
+.Secret{
+    /* border: solid green; */
+    width: auto;
+    height: 30vh;
+    border-radius: 10%;
+    
+}
+.Tales{
+    /* border: solid green; */
+    width: auto;
+    height: 25vh;
+    border-radius: 10%;
+    
+}
+.Ancient{
+    /* border: solid green; */
+    width: auto;
+    height: 30vh;
+    border-radius: 10%;
+    
+}
+.title{
+    /* border:solid yellow; */
+    height: 10vh;
+    background-color: gold;
+    color:black;
+   font-size: 110%;
+   border-radius: 10%;
+
+}
+.footer{
+    /* border:solid palegreen; */
+    height:50vh;
+    display:flex;
+    background-color: black;
+    /* margin: 5%; */
+
+}
+.footerleft{
+    /* border:solid orange; */
+    height:50vh;
+    width: 20vw;
+    background-image: url(https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/304/283/BRAND_THC_TTTB_272517_NLM_443640_2398_60_20221202_01_1202227_NoOB_HD.jpg?h=280);
+    text-align: center;
+    /* filter: blur(10px);
+    -webkit-filter: blur(10px); */
+    color:white;
+    font-size: larger;
+    /* background-color: rgba(0,0,0,0.4); */
+
+}
+
+.footerright{
+    /* border:solid purple; */
+    height:20vh;
+    width:80vw;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+.header{
+    justify-content: center;
+    font-style: normal;
+    text-align: center;   
+
+}
+
+.subheadercontent{
+    /* border:solid blue; */
+    height:30vh;
+    width:80vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    /* margin: auto;
+    padding: 2%; */
+
+}
+.headercontent{
+    /* border:solid palevioletred; */
+    height:30vh;
+    width:30vw;
+    background-color: black;
+    color: white;
+
+}
